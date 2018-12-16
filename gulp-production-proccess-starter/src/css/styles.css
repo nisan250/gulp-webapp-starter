@@ -1,0 +1,19 @@
+.testing {
+  width: 75%;
+}
+
+.ss {
+  backface-visibility: hidden;
+}
+
+body {
+  background-attachment: purple;
+}
+.testing {
+  width: 80%;
+  background: red;
+}
+
+body {
+  background: #427df4;
+}

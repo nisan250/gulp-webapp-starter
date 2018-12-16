@@ -1,0 +1,10 @@
+.testing {
+    width: percentage(4/5);
+    background: red;
+}
+
+$bgColor: #427df4;
+
+body {
+    background: $bgColor;
+}

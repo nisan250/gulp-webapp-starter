@@ -1,0 +1,1 @@
+console.log('this is file: js3.js');
